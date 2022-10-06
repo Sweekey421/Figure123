@@ -8,7 +8,6 @@ public class Rectanqle extends Shape{
         super.x = x;
         super.y = y;
     }
-
     @Override
     public void draw(Graphics p, int x, int y, int a, int b) {
         p.drawRect(x, y, a, b);

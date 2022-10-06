@@ -11,5 +11,4 @@ public class Circle extends Shape{
         super.x = x;
         super.y = y;
     }
-
 }
